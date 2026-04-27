@@ -26,28 +26,14 @@
   <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushmansahoo098&repo=Telco-Root-cause-analysis&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
 </a>
 &nbsp;
-<a href="https://github.com/Ayushmansahoo098/pdf-to-quiz-nlp">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushmansahoo098&repo=pdf-to-quiz-nlp&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/Ayushmansahoo098/Portfolio-EDITOR-">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushmansahoo098&repo=Portfolio-EDITOR-&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
-</a>
-&nbsp;
 <a href="https://github.com/Ayushmansahoo098/SafeRoute">
   <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushmansahoo098&repo=SafeRoute&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
 </a>
 
 <br><br>
 
-<a href="https://github.com/Ayushmansahoo098/focuslens">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushmansahoo098&repo=focuslens&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
-</a>
-&nbsp;
-<a href="https://github.com/Ayushmansahoo098/Inventory-Management-System">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushmansahoo098&repo=Inventory-Management-System&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
+<a href="https://github.com/Ayushmansahoo098/pdf-to-quiz-nlp">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushmansahoo098&repo=pdf-to-quiz-nlp&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
 </a>
 
 </div>
@@ -205,41 +191,8 @@
 
 <br>
 
-<!-- RANDOM DEV QUOTE -->
-<div align="center">
 
-### ✍️ Random Dev Quote
 
-<br>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<!-- SPOTIFY - uncomment if you set up spotify-github-profile -->
-<!--
-<div align="center">
-
-### 🎧 Listening To
-
-<br>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
-
-</div>
-
-<br>
-
----
-
-<br>
--->
 
 <!-- SOCIAL LINKS -->
 <div align="center">
