@@ -12,32 +12,7 @@
 
 </div>
 
-<!-- ABOUT ME -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;About Me
 
-```yaml
-name: Ayushman Sahoo
-located_in: India 🇮🇳
-education: B.Tech Student
-
-fields_of_interest:
-  - Full-Stack Web Development
-  - Artificial Intelligence & Machine Learning
-  - Open Source Contribution
-  - UI/UX Design & Video Editing
-
-currently_working_on: "AI-Driven Root Cause Analysis for 5G Networks"
-currently_learning: ["Next.js", "LLM Fine-tuning", "System Design"]
-
-hobbies: ["Coding", "UI Design", "Video Editing", "Problem Solving"]
-fun_fact: "I mass mass my code to perfection 🍝➡️✨"
-```
-
-<br>
-
----
-
-<br>
 
 <!-- WHAT I'M UP TO -->
 <div align="center">
