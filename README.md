@@ -14,30 +14,6 @@
 
 
 
-<!-- WHAT I'M UP TO -->
-<div align="center">
-
-### 🎯 What I'm Up To
-
-<br>
-
-🔭 I'm currently working on **[Telco Root Cause Analysis](https://github.com/Ayushmansahoo098/Telco-Root-cause-analysis)** — AI-powered fault isolation for 5G networks
-
-🌱 I'm currently learning **Next.js, LangChain & Advanced System Design**
-
-👯 I'm looking to collaborate on **Open Source projects & AI/ML tools**
-
-💬 Ask me about **React, Node.js, Python, MongoDB, or anything MERN**
-
-⚡ Fun fact: **I think debugging is just a treasure hunt with extra steps 🗺️**
-
-</div>
-
-<br>
-
----
-
-<br>
 
 <!-- FEATURED PROJECTS -->
 <div align="center">
