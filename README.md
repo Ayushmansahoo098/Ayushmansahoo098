@@ -12,36 +12,6 @@
 
 </div>
 
-
----
-
-<br>
-
-<!-- FEATURED PROJECTS -->
-<div align="center">
-
-### 🚀 Featured Projects
-
-<br>
-
-<a href="https://github.com/Ayushmansahoo098/Telco-Root-cause-analysis">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushmansahoo098&repo=Telco-Root-cause-analysis&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
-</a>
-&nbsp;
-<a href="https://github.com/Ayushmansahoo098/SafeRoute">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushmansahoo098&repo=SafeRoute&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/Ayushmansahoo098/pdf-to-quiz-nlp">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushmansahoo098&repo=pdf-to-quiz-nlp&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
-</a>
-
-</div>
-
-<br>
-
 ---
 
 <br>
@@ -85,6 +55,35 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<!-- FEATURED PROJECTS -->
+<div align="center">
+
+### 🚀 Featured Projects
+
+<br>
+
+<a href="https://github.com/Ayushmansahoo098/Telco-Root-cause-analysis">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushmansahoo098&repo=Telco-Root-cause-analysis&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
+</a>
+&nbsp;
+<a href="https://github.com/Ayushmansahoo098/SafeRoute">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushmansahoo098&repo=SafeRoute&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Ayushmansahoo098/pdf-to-quiz-nlp">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushmansahoo098&repo=pdf-to-quiz-nlp&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
+</a>
 
 </div>
 
