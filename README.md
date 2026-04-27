@@ -6,6 +6,12 @@
 <!-- NAME ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Building+things+that+matter+🚀;MERN+Stack+%7C+Python+%7C+AI+%2F+ML;Always+learning%2C+always+shipping+⚡)](https://git.io/typing-svg)
 
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="400" alt="coding with music" />
+
+**`> completing tasks while listening to beats 🎧🔥`**
+
 </div>
 
 <!-- ABOUT ME -->
