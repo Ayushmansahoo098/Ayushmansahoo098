@@ -1,0 +1,32 @@
+# GitHub Actions workflow to generate the contribution snake animation
+# The snake SVGs are pushed to the 'output' branch and referenced in README.md
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:        # Allows manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake Game
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Ayushmansahoo098
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
