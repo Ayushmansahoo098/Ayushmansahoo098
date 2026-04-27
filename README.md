@@ -100,7 +100,7 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ayushmansahoo098&theme=discord&no-frame=true&no-bg=true&column=-1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=Ayushmansahoo098&theme=discord&no-frame=true&no-bg=true&column=-1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
