@@ -13,7 +13,9 @@
 </div>
 
 
+---
 
+<br>
 
 <!-- FEATURED PROJECTS -->
 <div align="center">
